@@ -1,1 +1,3 @@
 # pensamentocomputacional
+
+Kauany Alves
